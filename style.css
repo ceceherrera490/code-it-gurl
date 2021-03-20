@@ -1,0 +1,17 @@
+body {
+  background: blue;
+  border: rgba(175, 26, 175, 0.658);
+  border-style: ridge;
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 40px;
+  background-color: black;
+  text-align: center;
+  color: rgb(139, 45, 127);
+}
+
+#flower {
+  width: 1375px;
+}
